@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗪𝗲𝗯𝗦𝗰𝗿𝗮𝗽&fontAlignY=30&fontSize=90&desc=Full-Page%20Web%20Scraper%20·%20JS-Rendered%20HTML%20·%20SPA%20Support&descSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Z-𝗪𝗲𝗯-𝗦𝗰𝗿𝗮𝗽er&fontAlignY=30&fontSize=90&desc=Full-Page%20Web%20Scraper%20·%20JS-Rendered%20HTML%20·%20SPA%20Support&descSize=25" />
 
 <br/>
 
@@ -447,8 +447,8 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 <i>~ For inquiries or collaborations</i>
      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/festverse "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/festverse_ "Follow on Instagram")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fest.payhip@gmail.com "Send an Email")
 
 <sup><b>Copyright © <a href="https://telegram.me/festverse">Utsav Vasava</a> All Rights Reserved</b></sup>
 
