@@ -438,12 +438,6 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 
 ⭐ [Give a star to this project](https://github.com/festverse/Z-Web-Scraper)
 
-<div align="center">
-  
-<a href="https://github.com/festverse/Z-Web-Scraper">
-<img src="https://github.com/festverse/AniPay/blob/main/Source/Banner6.png" alt="Banner">
-</a>
-
 <i>~ For inquiries or collaborations</i>
      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/festverse "Contact on Telegram")
